@@ -3,6 +3,7 @@ The convex and strongly convex setting algorithm implementations are in the jupy
 The non convex setting implementation is in the jupyter notebook nonconvex.ipynb 
 
 The pdf report is in the file phase2-ahmed-sa.pdf
+
 Data -  synthetically generated
 
 Libraries 
