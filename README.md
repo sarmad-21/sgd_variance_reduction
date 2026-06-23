@@ -4,6 +4,8 @@ The non convex setting implementation is in the jupyter notebook nonconvex.ipynb
 
 The pdf report is in the file phase2-ahmed-sa.pdf
 
+Slides are located in the file 
+
 Data -  synthetically generated
 
 Libraries 
